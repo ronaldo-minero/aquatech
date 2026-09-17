@@ -3,7 +3,6 @@
 body {
     background-color: #060b11;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-
     }
 
 .header {
@@ -44,12 +43,11 @@ body {
 .banner {
     display: flex;
     color: white;
-    width: 100px;
     background-image: url('../assets/imgs/bg-jelly-fish-para-home.png'); 
     background-size: cover; 
     background-position: center;
     height: 800px;
-    width: 100%; 
+    width: auto; 
     align-items: center;
     justify-content: center;
     
@@ -117,12 +115,11 @@ body {
 .login {
     display: flex; 
     color: white;
-    width: 100px;
     background-image: url('../assets/imgs/bg-jelly-fish-para_outras_pags.png'); 
     background-size: cover; 
     background-position: center;
     height: 800px;
-    width: 100%; 
+    width: auto; 
     align-items: center;
     justify-content: center;
 }
